@@ -1,0 +1,16 @@
+
+Stability Summary - circuit "final" with loop probe "I5.IPRB_CM"
+
+ PM(deg)    @Freq(Hz)  GM(dB)     @Freq(Hz) 
+
+ 72.627     83.997M    12.022     827.87M   
+
+Stability Summary - circuit "final" with loop probe "I43.IPRB_CM"
+ PM(deg)    @Freq(Hz)  GM(dB)     @Freq(Hz) 
+
+ 83.002     14.412M    38.1       490.37M   
+
+Stability Summary - circuit "final" with loop probe "I10.IPRB_DM"
+ PM(deg)    @Freq(Hz)  GM(dB)     @Freq(Hz) 
+
+ 71.93      215.53M    1.5036     424.47M   
